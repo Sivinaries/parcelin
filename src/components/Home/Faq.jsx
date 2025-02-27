@@ -49,7 +49,7 @@ function Faq() {
           </div>
           <div className="col-span-1 grid grid-cols-1">
             {faqData.map((faq, index) => (
-              <div key={index} className="border-b border-gray-200">
+              <div key={index} className={`border-t border-gray-800`}>
                 <button
                   className="w-full py-5 flex justify-between items-center hover:text-gray-700 focus:outline-none"
                   onClick={() => toggleAccordion(index)}

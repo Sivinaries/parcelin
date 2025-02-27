@@ -45,7 +45,10 @@ export default function Promote() {
         <img src={"/images/promote/bg-vector.png"} alt="Wood Texture" className="absolute h-full w-full z-10" />
         <Section className="rounded-xl flex flex-col items-center text-center py-6">
           <h1 className="text-xl text-white font-medium">
-            Tunggu apalagi, Yuk hubungi kami sekarang!
+            Tunggu apalagi, Yuk
+          </h1>
+          <h1 className="text-xl text-white font-medium">
+            hubungi kami sekarang!
           </h1>
           <button className="bg-[#FD9F59] text-white font-medium rounded-full px-6 py-2 mt-4">
             Hubungi Kami

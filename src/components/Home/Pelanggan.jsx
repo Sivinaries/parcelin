@@ -82,10 +82,10 @@ function Pelanggan() {
             <h1 className="text-4xl md:text-5xl text-center font-bold">
               7500+ Pelanggan
             </h1>
-            <h1 className="text-xl md:text-3xl text-center font-extralight">
+            <h1 className="text-lg md:text-2xl text-center font-extralight">
               Sudah mempercayakan
             </h1>
-            <h1 className="text-xl md:text-3xl text-center font-extralight">
+            <h1 className="text-lg md:text-2xl text-center font-extralight">
               packagingnya kepada Kami
             </h1>
           </div>
